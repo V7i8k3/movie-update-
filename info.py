@@ -49,8 +49,8 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Files_TGxFiles')
 
 # Others
 VERIFY = bool(environ.get('VERIFY', False))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'indianshortner.com')
-SHORTLINK_API = environ.get('SHORTLINK_API', 'af3303df5528d3fa4ca4577184527e32896514ea')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'http://instantearn.in')
+SHORTLINK_API = environ.get('SHORTLINK_API', 'a11dd3b68f5f401b629644e0f583757735f9a818')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "5")
