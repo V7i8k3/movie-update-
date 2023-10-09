@@ -666,7 +666,7 @@ Also your tutorial will be Added Your Group..."""
 
 - Gʀᴏᴜᴘ - <a href='https://t.me/MOVIERIQVESTATOZ'>VJ</a>
 
-- Cʜᴀɴɴᴇʟ - <a href='https://t.me/IPAPKORNBETABOTS>ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ</a>
+- Cʜᴀɴɴᴇʟ - <a href='https://t.me/faheem786786>ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ</a>
 
 - Cʜᴀɴɴᴇʟ - <a href='https://t.me/FAHEEMKHATRI7861'>sᴇᴄᴏɴᴅ - ᴍᴏᴠɪᴇ ᴄʜᴀɴɴᴇʟ</a>
 """
