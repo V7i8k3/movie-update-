@@ -49,8 +49,8 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_fndkdiles')
 
 # Others
 VERIFY = bool(environ.get('VERIFY', False))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'indianshortner.com')
-SHORTLINK_API = environ.get('SHORTLINK_API', 'af3303df5528d3fa4ca4577184527e32896514ea')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'https://vipurl.in')
+SHORTLINK_API = environ.get('SHORTLINK_API', '45bfb7d57a0a28b42af639ceff52225fffd11fe8')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "5")
