@@ -98,7 +98,7 @@ URL = "https://romio-68db96ed4daa.herokuapp.com".format(FQDN) if ON_HEROKU or NO
     "https://romio-68db96ed4daa.herokuapp.com/".format(FQDN, PORT)
 SLEEP_THRESHOLD = int(environ.get('SLEEP_THRESHOLD', '60'))
 WORKERS = int(environ.get('WORKERS', '4'))
-SESSION_NAME = str(environ.get('SESSION_NAME', 'lunabotb'))
+SESSION_NAME = str(environ.get('SESSION_NAME', 'romio'))
 MULTI_CLIENT = False
 name = str(environ.get('name', 'lunabotb'))
 PING_INTERVAL = int(environ.get("PING_INTERVAL", "1200"))  # 20 minutes
