@@ -5,9 +5,9 @@ class script(object):
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
-‣ ᴍʏ ɴᴀᴍᴇ : <a href='https://t.me/smart420BoT'>SᴍᴀʀT BᴏT🇮🇳</a>
+‣ ᴍʏ ɴᴀᴍᴇ : <a href='https://t.me/A2zmoviehubbot_bot'>SᴍᴀʀT BᴏT🇮🇳</a>
  ‣ My best friend : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
- ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/kingvj01'>❣️ Fᴀʜᴇᴇᴍ 🇮🇳</a> 
+ ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/a2ztechmoviesworld'>❣️ bijendra Kumar 🇮🇳</a> 
  ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
  ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
  ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
@@ -15,10 +15,10 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
  ‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ2.7.1 [sᴛᴀʙʟᴇ]></b>"""
 
     SOURCE_TXT = """<b>┏━•❃𓊈𒆜Oᴡɴᴇʀ Dᴇᴛᴀɪʟꜱ𒆜𓊉❃•━┓   
- ◈ ᴛɢ ɴᴀᴍᴇ : ⚝𝗠𝗿.𝗙𝗔𝗛𝗘𝗘𝗠⚝
- ◈ ɴɪᴄᴋɴᴀᴍᴇ : 𝐅𝐀𝐇𝐄𝐄𝐌 💎
- ◈ ᴜꜱᴇʀɴᴀᴍᴇ : @Faheem21025492006
- ◈ ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/Faheem21025492006'>♻️ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+ ◈ ᴛɢ ɴᴀᴍᴇ : ⚝𝗠𝗿.Mr bijendra⚝
+ ◈ ɴɪᴄᴋɴᴀᴍᴇ : bijendra 💎
+ ◈ ᴜꜱᴇʀɴᴀᴍᴇ : @a2ztechmoviesworld
+ ◈ ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/a2ztechmoviesworld'>♻️ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 ‿︵‿︵‿︵‿୨❤୧‿︵‿︵‿︵‿ </b>"""
 
 
@@ -73,7 +73,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
 my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=https://t.me/Faheem21025492006>☢Fᴀʜᴇᴇᴍ</a></b>
+ <b>✯ Maintained by : <a href=https://t.me/a2ztechmoviesworld>☢ bijendra</a></b>
   
  <b>✯ Join here : <a href=https://t.me/IPAPKORNBETABOTS>☢ᴊᴏɪɴ ᴍʏ ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ☢</a></b> 
   
@@ -90,7 +90,7 @@ my features Stay here new features coming soon...
   
  ./video - This command usage any YouTube video download hd [<code>example /video https://youtu.be/Aiue8PMuD-k</code>]
 
-./font - This command usage stylish and cool font generator [<code>example /font Fᴀʜᴇᴇᴍ</code>]"""
+./font - This command usage stylish and cool font generator [<code>example /font bijendra</code>]"""
 
 
     ADMIN_TXT = """ʜᴇʟᴘ: Aᴅᴍɪɴ Mᴏᴅs
@@ -662,11 +662,11 @@ Also your tutorial will be Added Your Group..."""
     DEVELOPER_TXT = """
 ❤️‍🔥sᴘᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ ᴅᴇᴠᴇʟᴏᴘᴇʀs  -
 
-- Dᴇᴠᴇʟᴏᴘᴇʀ [Oᴡɴᴇʀ ᴏғ ᴛʜɪs ʙᴏᴛ]<a href='https://t.me/Faheem21025492006'>Fᴀʜᴇᴇᴍ 🇮🇳</a>
+- Dᴇᴠᴇʟᴏᴘᴇʀ [Oᴡɴᴇʀ ᴏғ ᴛʜɪs ʙᴏᴛ]<a href='https://t.me/a2ztechmoviesworld'>bijendra 🇮🇳</a>
 
-- Gʀᴏᴜᴘ - <a href='https://t.me/MOVIERIQVESTATOZ'>VJ</a>
+- Gʀᴏᴜᴘ - <a href='https://t.medownloada2z3/'>VJ</a>
 
-- Cʜᴀɴɴᴇʟ - <a href='https://t.me/faheem786786>ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ</a>
+- Cʜᴀɴɴᴇʟ - <a href='https://t.me/techazworlda2z>ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ</a>
 
-- Cʜᴀɴɴᴇʟ - <a href='https://t.me/FAHEEMKHATRI7861'>sᴇᴄᴏɴᴅ - ᴍᴏᴠɪᴇ ᴄʜᴀɴɴᴇʟ</a>
+- Cʜᴀɴɴᴇʟ - <a href='https://t.me/techazworlda2z'>sᴇᴄᴏɴᴅ - ᴍᴏᴠɪᴇ ᴄʜᴀɴɴᴇʟ</a>
 """
